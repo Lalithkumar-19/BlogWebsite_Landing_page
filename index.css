@@ -299,6 +299,7 @@ body {
             .site_representation_section_inner_inner_div {
                 display: flex;
                 flex-direction: column;
+
                 @media(350px<=width<=780px) {
                     width: 100%;
                     justify-content: center;
@@ -307,6 +308,7 @@ body {
                 .site_representation_section_inner_inner_div_title {
                     color: hsl(208, 49%, 24%);
                     font-size: 22px;
+
                     @media(350px<=width<=780px) {
                         text-align: center;
                     }
@@ -383,7 +385,7 @@ body {
 
         @media(350px<=width<=780px) {
             text-align: center;
-            margin-top:50px ;
+            margin-top: 50px;
             margin: 0 auto;
             margin-bottom: -100px;
 
@@ -628,7 +630,8 @@ button {
                 flex-direction: column;
                 gap: 10px;
                 list-style: none;
-                & li{
+
+                & li {
                     text-decoration: underline;
                 }
             }
@@ -665,8 +668,11 @@ button {
 }
 
 /* icons hide for mobile view */
-
+#hamburger {
+    cursor: pointer;
+}
 
 #close_icon {
     display: none;
+    cursor: pointer;
 }
