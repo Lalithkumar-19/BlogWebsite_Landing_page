@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/Lalithkumar-19/BlogWebsite_Landing_page)
+- Live Site URL: [Live site](https://lalithkumar-19.github.io/BlogWebsite_Landing_page/)
 
 ## My process
 
